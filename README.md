@@ -1,7 +1,7 @@
 # WhatsApp-Mini
 
 Introduction
-This is a WhatsApp clone application that allows users to sign in using their Google credentials and chat with other users in real-time using Socket.io. The project is built using the MERN stack (MongoDB, Express.js, React, and Node.js) and utilizes various technologies such as Redux, Material-UI, and Axios.
+This is a WhatsApp clone application that allows users to sign in using their Google credentials and chat with other users in real-time using Socket.io. The project is built using the MERN stack (MongoDB, Express.js, React, and Node.js) and utilizes various technologies such as Material-UI, and Axios.
 
 Installation
 To install and run the project, follow these steps:
